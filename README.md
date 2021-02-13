@@ -1,1 +1,1 @@
-# budget-application
+# Budget Application
